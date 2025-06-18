@@ -79,6 +79,14 @@
 #define AEC_NO_HIDDEN "\x1b[28m"
 #define AEC_NO_STRIKETHROUGH "\x1b[29m"
 
+// 256-color support
+#define AEC_COLOR256(n) "\033[38;5;" #n "m"
+#define AEC_BG_COLOR256(n) "\033[48;5;" #n "m"
+
+// Truecolor (RGB) support
+#define AEC_RGB(r, g, b) "\033[38;2;" #r ";" #g ";" #b "m"
+#define AEC_BG_RGB(r, g, b) "\033[48;2;" #r ";" #g ";" #b "m"
+
 // Cursor movement
 #define AEC_CURSOR_UP(n) "\x1b[" #n "A"
 #define AEC_CURSOR_DOWN(n) "\x1b[" #n "B"
