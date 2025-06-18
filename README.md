@@ -1,4 +1,4 @@
-# ANSI Escape Sequences
+# ANSI Escape Codes
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
