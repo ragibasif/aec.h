@@ -7,6 +7,7 @@
 
 A lightweight header file providing ANSI escape codes for terminal text
 formatting and colors in C/C++ projects. Learn more at [Wikipedia](https://en.wikipedia.org/wiki/ANSI_escape_code).
+Project built for **educational and recreational purposes.**
 
 ![hello_world.gif](./docs/hello_world.gif)
 
