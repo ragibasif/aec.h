@@ -1,11 +1,12 @@
 # ANSI Escape Sequences
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
+
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 A lightweight header file providing ANSI escape codes for terminal text
-formatting and colors in C/C++ projects. Learn more at [Wikipedia: ANSI escape code](https://en.wikipedia.org/wiki/ANSI_escape_code).
+formatting and colors in C/C++ projects. Learn more at [Wikipedia](https://en.wikipedia.org/wiki/ANSI_escape_code).
 
 ![hello_world.gif](./docs/hello_world.gif)
 
