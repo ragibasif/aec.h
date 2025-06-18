@@ -1,7 +1,8 @@
 # ANSI Escape Sequences
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![ANSI](https://img.shields.io/badge/ANSI%20Escape-Codes-brightgreen)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 A lightweight header file providing ANSI escape codes for terminal text
 formatting and colors in C/C++ projects. Learn more at [Wikipedia: ANSI escape code](https://en.wikipedia.org/wiki/ANSI_escape_code).
@@ -27,11 +28,15 @@ cp aec.h/aec.h /path/to/your/project/include/
 
 See the `examples/` directory for more usage examples.
 
-## License
-
-MIT License - see [LICENSE](LICENSE) file for details.
-
 ## Contributing
 
-Contributions are welcome! Please open an issue or pull request for any
-improvements or additional features.
+1. Fork the repository
+2. Create a new branch (`git checkout -b feature/feature-name`)
+3. Make your changes and commit (`git commit -am 'Add new feature'`)
+4. Push to your fork (`git push origin feature/feature-name`)
+5. Open a pull request
+
+## License
+
+This project is licensed under the **MIT license**. See the [LICENSE](LICENSE)
+file for details.
